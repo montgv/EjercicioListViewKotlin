@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EjercicioListViewKotlin</string>
+    <string name="btn_volver">Volver</string>
+</resources>
